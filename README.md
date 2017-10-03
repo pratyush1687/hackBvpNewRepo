@@ -8,6 +8,5 @@ this is a repo to work on our git skills
  # teamMember
   - pratyush
     > **[pratyush1687]https://github.com/pratyush1687**
-  
-  -dipesh
+    dipesh
     > **[Dipesh-Budhiraja]https://github.com/Dipesh-Budhiraja**
